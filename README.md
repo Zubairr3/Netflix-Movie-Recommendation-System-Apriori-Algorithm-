@@ -1,5 +1,8 @@
 Netflix Movie Recommendation System
 Overview
+
+
+
 This project leverages the Apriori Algorithm to perform Market Basket Analysis on a movie-viewing dataset. By identifying frequent movie co-occurrences, the system generates association rules that predict user preferences and provide movie recommendations.
 
 Methodology
